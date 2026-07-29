@@ -33,13 +33,9 @@ Before we get into plan specs, let's talk about what "Sydney" means in practice 
 Here's the part most comparison articles gloss over: Evoxt's Standard Network tier (the one Sydney lives in) actually has **eleven plans**, not the four or five that most reviews mention. The cheapest is $2.99/month and tops out at $95.99/month for a 16-core / 32 GB box. Below is the complete lineup with full specs, taken directly from Evoxt's official pricing page.
 
 | Plan | CPU | RAM | Storage | Monthly Transfer | Backup | Price | Deploy |
-
 | --- | --- | --- | --- | --- | --- | --- | --- |
-
 | VM-0.5 | 1 vCore (Up to 6.0 GHz) | 512 MB | 5 GB | 500 GB | Weekly | $2.99 / month | 👉 [Deploy VM-0.5 in Sydney](https://bit.ly/EvoXt) |
-
 | VM-0.75 | 1 vCore (Up to 6.0 GHz) | 1 GB | 10 GB | 750 GB | Weekly | $4.99 / month | 👉 [Deploy VM-0.75 in Sydney](https://bit.ly/EvoXt) |
-
 | VM-1 | 1 vCore (Up to 6.0 GHz) | 2 GB | 20 GB | 1000 GB | Weekly | $5.99 / month | 👉 [Deploy VM-1 in Sydney](https://bit.ly/EvoXt) |
 
 | VM-1.5 | 2 vCores (Up to 6.0 GHz) | 2 GB | 20 GB | 1500 GB | Weekly | $6.95 / month | 👉 [Deploy VM-1.5 in Sydney](https://bit.ly/EvoXt) |
