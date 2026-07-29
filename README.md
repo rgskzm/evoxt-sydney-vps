@@ -37,21 +37,13 @@ Here's the part most comparison articles gloss over: Evoxt's Standard Network ti
 | VM-0.5 | 1 vCore (Up to 6.0 GHz) | 512 MB | 5 GB | 500 GB | Weekly | $2.99 / month | 👉 [Deploy VM-0.5 in Sydney](https://bit.ly/EvoXt) |
 | VM-0.75 | 1 vCore (Up to 6.0 GHz) | 1 GB | 10 GB | 750 GB | Weekly | $4.99 / month | 👉 [Deploy VM-0.75 in Sydney](https://bit.ly/EvoXt) |
 | VM-1 | 1 vCore (Up to 6.0 GHz) | 2 GB | 20 GB | 1000 GB | Weekly | $5.99 / month | 👉 [Deploy VM-1 in Sydney](https://bit.ly/EvoXt) |
-
 | VM-1.5 | 2 vCores (Up to 6.0 GHz) | 2 GB | 20 GB | 1500 GB | Weekly | $6.95 / month | 👉 [Deploy VM-1.5 in Sydney](https://bit.ly/EvoXt) |
-
 | VM-2 | 2 vCores (Up to 6.0 GHz) | 4 GB | 30 GB | 2000 GB | Weekly | $11.99 / month | 👉 [Deploy VM-2 in Sydney](https://bit.ly/EvoXt) |
-
 | VM-3 | 4 vCores (Up to 6.0 GHz) | 4 GB | 30 GB | 3000 GB | Weekly | $14.99 / month | 👉 [Deploy VM-3 in Sydney](https://bit.ly/EvoXt) |
-
 | VM-4 | 4 vCores (Up to 6.0 GHz) | 8 GB | 60 GB | 4000 GB | Weekly | $23.99 / month | 👉 [Deploy VM-4 in Sydney](https://bit.ly/EvoXt) |
-
 | VM-6 | 8 vCores (Up to 6.0 GHz) | 8 GB | 60 GB | 5000 GB | Weekly | $29.99 / month | 👉 [Deploy VM-6 in Sydney](https://bit.ly/EvoXt) |
-
 | VM-8 | 8 vCores (Up to 6.0 GHz) | 16 GB | 80 GB | 6000 GB | Weekly | $47.99 / month | 👉 [Deploy VM-8 in Sydney](https://bit.ly/EvoXt) |
-
 | VM-12 | 16 vCores (Up to 6.0 GHz) | 16 GB | 80 GB | 8000 GB | Weekly | $60.95 / month | 👉 [Deploy VM-12 in Sydney](https://bit.ly/EvoXt) |
-
 | VM-16 | 16 vCores (Up to 6.0 GHz) | 32 GB | 100 GB | 10 TB | Weekly | $95.99 / month | 👉 [Deploy VM-16 in Sydney](https://bit.ly/EvoXt) |
 
 > **A note on the deploy links:** Evoxt runs a single console-based deploy flow at `console.evoxt.com/deploy.php` where you pick the region (Sydney, in this case) and the plan after the affiliate redirect lands you inside the console. The links above all carry the affiliate parameter `aff=1168` so the visit is tracked — once you're inside the console, you select "Australia" as the location and the specific VM tier you want.
